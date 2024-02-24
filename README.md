@@ -1,4 +1,4 @@
-Hey! Thank you visiting my GitHub. Hoping to connect with you further.
+Hey! Thanks for visiting my GitHub. Hope to connect with you further.
 
 <!---
 ZixuanTheAnalyst/ZixuanTheAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
